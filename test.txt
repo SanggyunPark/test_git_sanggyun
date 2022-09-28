@@ -35,3 +35,5 @@ Test2 내용 추가
 PUSH
 
 PULL
+
+push.egoing
