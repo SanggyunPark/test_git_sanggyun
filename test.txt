@@ -40,3 +40,5 @@ PULL
 
 push.egoing
 
+pull.test
+
