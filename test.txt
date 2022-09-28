@@ -45,3 +45,4 @@ pull.test
 
 conflict.egoing.leezche
 
+외부도구.master
