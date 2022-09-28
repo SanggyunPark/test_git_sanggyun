@@ -33,3 +33,5 @@ Test2 내용 추가
 인코딩 설정
 
 PUSH
+
+PULL
