@@ -42,3 +42,4 @@ push.egoing
 
 pull.test
 
+conflict.egoing
