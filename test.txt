@@ -39,3 +39,5 @@ PULL
 push.egoing
 
 pull.test
+
+conflict.leezche
